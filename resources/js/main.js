@@ -3,14 +3,14 @@ $(document).ready(function(){
     
     //STICKY MENU
     
-   $(".js--services-section").waypoint(function(direction){
-       if(direction == "down"){
-          $("nav").addclass("sticky");
-          } else {
-           $("nav").removeclass("sticky");
-          }
+//    $(".js--services-section").waypoint(function(direction){
+//        if(direction == "down"){
+//           $("nav").addclass("sticky");
+//           } else {
+//            $("nav").removeclass("sticky");
+//           }
         
-   });
+//    });
     
     //W3SCHOOL
 //     window.onscroll = function() {myFunction()};
